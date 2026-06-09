@@ -1,0 +1,18 @@
+[
+  {
+    "id": "mq4v0u0ruu0tp",
+    "title": "Family Dinner at Midnight",
+    "date": "2026-06-12",
+    "description": "Special feast with Cousin Itt and Uncle Fester. Dress code: Dark chic.",
+    "familyId": "mq4v0u0ftqn6h",
+    "createdAt": "2026-06-08T06:58:42.555Z"
+  },
+  {
+    "id": "mq4v0u0s5syoi",
+    "title": "Tango Practice",
+    "date": "2026-06-14",
+    "description": "Daily practice in the grand ballroom.",
+    "familyId": "mq4v0u0ftqn6h",
+    "createdAt": "2026-06-08T06:58:42.556Z"
+  }
+]

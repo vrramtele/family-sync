@@ -1,0 +1,20 @@
+[
+  {
+    "id": "mq4v0u0in7ehl",
+    "name": "Gomez Adams",
+    "email": "gomez@adams.com",
+    "password": "$2a$10$WBmy.o9W6gBpopmWqx8G1uBtE0X9cCgdezGXzBRfc1hpYfOo7dYMe",
+    "role": "Family Admin",
+    "familyId": "mq4v0u0ftqn6h",
+    "createdAt": "2026-06-08T06:58:42.546Z"
+  },
+  {
+    "id": "mq4v0u0j0708q",
+    "name": "Morticia Adams",
+    "email": "morticia@adams.com",
+    "password": "$2a$10$WBmy.o9W6gBpopmWqx8G1uBtE0X9cCgdezGXzBRfc1hpYfOo7dYMe",
+    "role": "Family Member",
+    "familyId": "mq4v0u0ftqn6h",
+    "createdAt": "2026-06-08T06:58:42.547Z"
+  }
+]

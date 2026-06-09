@@ -1,0 +1,18 @@
+[
+  {
+    "id": "mq4v0u0tw1juz",
+    "userId": "mq4v0u0in7ehl",
+    "message": "You have been assigned the task: \"Buy fencing supplies\"",
+    "timestamp": "2026-06-08T05:58:42.557Z",
+    "isRead": false,
+    "createdAt": "2026-06-08T06:58:42.557Z"
+  },
+  {
+    "id": "mq4v0u0u4lagl",
+    "userId": "mq4v0u0j0708q",
+    "message": "You have been assigned the task: \"Water the carnivorous plants\"",
+    "timestamp": "2026-06-08T06:28:42.558Z",
+    "isRead": false,
+    "createdAt": "2026-06-08T06:58:42.558Z"
+  }
+]
